@@ -1,5 +1,7 @@
 # monica
 
+[![Build Status](https://travis-ci.org/alsotang/monica.svg?branch=master)](https://travis-ci.org/alsotang/monica)
+
 `npm i monica`
 
 ## usage
